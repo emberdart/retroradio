@@ -41,7 +41,7 @@
   "dependencies": {
     "@snyk/protect": "^1.1294.0",
     "bootstrap": "^5.3.3",
-    "express": "^4.21.1",
+    "express": "^4.22.1",
     "font-awesome": "^4.7.0",
     "hamlibjs": "^2.2.0",
     "jquery": "^3.7.1",
